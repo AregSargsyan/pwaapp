@@ -5,7 +5,7 @@
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "https://aregsargsyan.github.io/pwaapp/",
-  "start_url": "/",
+  "start_url": "https://aregsargsyan.github.io/pwaapp/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
